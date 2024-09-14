@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-<h3 align="left">Get In Touch:</h3>
+<!--<h3 align="left">Get In Touch:</h3>
 
 <p align="left">
   <a href="https://twitter.com/jd_addy" target="blank"
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   
   <a href="https://www.buymeacoffee.com/jd_addy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-
+-->
 <h3 align="left">My Tech Stack:</h3>
 <h4>Languages and Tools</h4>
 <p align="left">
