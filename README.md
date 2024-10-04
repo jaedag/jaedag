@@ -1,7 +1,7 @@
-### Hi 👋🏾, I'm John-Dag
+### Hi 👋🏾, I'm John-Dag,a web and mobile dev freelancer
 
-- 🔭 working on projects with Neo4j and [GRANDstack](https://grandstack.io)
-- 🌱 currently learning Flutter
+- 🔭 working on projects with Neo4j| [GRANDstack](https://grandstack.io) | Flutter
+- 🌱 currently learning Animations with [Three.js](https://threejs.org/)
 - 👯 looking to collaborate on projects with AI
 - ⚡ Fun fact: I play guitars and keyboards
 
