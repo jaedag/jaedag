@@ -1,6 +1,6 @@
 ### Hi 👋🏾, I'm John-Dag,a web and mobile dev freelancer
 
-- 🔭 working on projects with Neo4j | [GRANDstack](https://grandstack.io) | Flutter
+- 🔭 working on projects with Neo4j | [GRANDstack](https://github.com/grand-stack) | Flutter
 - 🌱 currently learning Animations with [Three.js](https://threejs.org/)
 - 👯 looking to collaborate on projects with AI
 - ⚡ Fun fact: I play guitars and keyboards
@@ -165,6 +165,14 @@ Here are some ideas to get you started:
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
+      alt="supabase"
       width="40"
       height="40"
     />
