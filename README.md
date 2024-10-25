@@ -1,4 +1,4 @@
-### Hi there! 👋🏾 I’m JD, a web and mobile dev freelancer
+### Hi 👋🏾! I’m JD, a web and mobile dev freelancer
 
 - 🔭 working on projects with Neo4j | [GRANDstack](https://github.com/grand-stack) | Flutter
 - 🌱 currently learning Animations with [Three.js](https://threejs.org/)
