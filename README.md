@@ -1,9 +1,9 @@
-### Hi 👋🏾, I'm John-Dag,a web and mobile dev freelancer
+### Hi 👋🏾, I'm JD, a web and mobile dev freelancer
 
 - 🔭 working on projects with Neo4j | [GRANDstack](https://github.com/grand-stack) | Flutter
 - 🌱 currently learning Animations with [Three.js](https://threejs.org/)
 - 👯 looking to collaborate on projects with AI
-- ⚡ Fun fact: I play guitars and keyboards
+- ⚡ Fun fact: I'm building my first SAAS with Next.js and Supabase
 
 <!--
 **jaedag/jaedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
