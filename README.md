@@ -1,7 +1,7 @@
 ### Hi 👋🏾! I’m JD, a web and mobile dev freelancer
 
 - 🔭 working on projects with Neo4j | [GRANDstack](https://github.com/grand-stack) | [Flutter](https://flutter.dev/) 
-- 🌱 currently learning Animations with [Three.js](https://threejs.org/)
+- 🌱 currently learning Animations with [Rive](https://rive.app/)
 - 👯 looking to collaborate on projects with AI
 - ⚡ Fun fact: I'm building my first SAAS with Next.js and Supabase
 
