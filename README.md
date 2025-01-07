@@ -187,12 +187,7 @@ Here are some ideas to get you started:
     />
   </a>
   <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"
-      alt="neo4j"
-      width="80"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/neo4j.svg" alt="Neo4j Logo" height="40">
   </a>
 </p>
 
