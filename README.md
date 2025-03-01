@@ -54,7 +54,28 @@ Here are some ideas to get you started:
   
 </p>
 -->
-  <a href="https://www.buymeacoffee.com/jd_addy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+<h3 align="left">Looking to Collaborate?</h3>
+<p align="left">
+    <!-- Upwork Button -->
+    <a href="https://www.upwork.com/fl/~013eb0d901d76fb0a3" target="_blank" 
+       style="display: inline-flex; align-items: center; justify-content: center; 
+              padding: 10px; background-color: white; border: 2px solid #6fda44; 
+              border-radius: 8px; transition: transform 0.2s ease-in-out;">
+      <img src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-1-500x281.png"
+           alt="Hire Me on Upwork" height="40" 
+           style="display: block; object-fit: contain;">
+    </a>
+    <a href="https://linkedin.com/in/john-dag-addy" target="_blank" 
+       style="display: inline-flex; align-items: center; justify-content: center; 
+              padding: 10px; background-color: white; border: 2px solid #0077B5; 
+              border-radius: 8px; transition: transform 0.2s ease-in-out;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+           alt="John-Dag Addy on LinkedIn" height="40" 
+           style="display: block; object-fit: contain;">
+    </a>
+</div>
+
   
 <h3 align="left">My Tech Stack:</h3>
 <h4>Languages and Tools</h4>
@@ -186,9 +207,18 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
+  <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer"
+     style="display: inline-flex; align-items: center; justify-content: center; 
+            padding: 10px; background-color: white; border: 2px solid #008CC1; 
+            border-radius: 8px; transition: transform 0.2s ease-in-out;">
+    <img src="https://vertigo.com.br/wp-content/uploads/2023/08/neo4j-1024x512.png"
+         alt="Neo4j Logo" height="40" 
+         style="display: block; object-fit: contain;">
+  </a>
   <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/neo4j.svg" alt="Neo4j Logo" height="40">
   </a>
+  
 </p>
 
 <h4>Mobile Dev Technologies</h4>
