@@ -4,9 +4,9 @@
 
 - 🌱 Product-focused developer helping teams turn scattered data into connected knowledge
 
-- 👯 Open to collaborating on graph AI & knowledge management projects
+- 👯 Open to collaborating on Graph AI & knowledge management projects
 
-- 🚀 On a mission to build a world-class team and deliver as much value as humanly possible
+- 🚀 On a mission to build a world-class team and deliver as much value as humanly possible. Find us at [thecodefoundry.dev](https://thecodefoundry.dev)
 
 <!--
 **jaedag/jaedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
