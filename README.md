@@ -1,9 +1,12 @@
-### Hi 👋🏾! I’m JD, a web and mobile dev freelancer
+### Hi 👋🏾! I’m JD, a product-focused web and mobile dev freelancer
 
-- 🔭 working on projects with Neo4j | [GRANDstack](https://github.com/grand-stack) | [Flutter](https://flutter.dev/) 
-- 🌱 currently learning Animations with [Rive](https://rive.app/)
-- 👯 looking to collaborate on projects with AI
-- ⚡ Fun fact: I'm building my first SAAS with Next.js and Supabase
+- 🔭 Building graph-powered knowledge systems with Neo4j and Graph AI
+
+- 🌱 Product-focused developer helping teams turn scattered data into connected knowledge
+
+- 👯 Open to collaborating on graph AI & knowledge management projects
+
+- 🚀 On a mission to build a world-class team and deliver as much value as humanly possible
 
 <!--
 **jaedag/jaedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
