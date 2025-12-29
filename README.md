@@ -1,4 +1,4 @@
-### Hi 👋🏾! I’m JD, a product-focused web and mobile dev
+### Hi 👋🏾! I’m JD, a product-focused web and mobile developer
 
 - 🔭 Building graph-powered knowledge systems with Neo4j and Graph AI
 
