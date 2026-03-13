@@ -60,8 +60,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Looking to Collaborate?</h3>
 <p align="left">
+  Send me an email at <a href="mailto:jd@thecodefoundry.dev">jd@thecodefoundry.dev</a>
     <!-- Upwork Button -->
-    <a href="https://www.upwork.com/fl/~013eb0d901d76fb0a3" target="_blank" 
+    <!--<a href="https://www.upwork.com/fl/~013eb0d901d76fb0a3" target="_blank" 
        style="display: inline-flex; align-items: center; justify-content: center; 
               padding: 10px; background-color: white; border: 2px solid #6fda44; 
               border-radius: 8px; transition: transform 0.2s ease-in-out;">
@@ -76,8 +77,8 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
            alt="John-Dag Addy on LinkedIn" height="40" 
            style="display: block; object-fit: contain;">
-    </a>
-</div>
+    </a>-->
+</p>
 
   
 <h3 align="left">My Tech Stack:</h3>
