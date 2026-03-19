@@ -6,7 +6,7 @@
 
 - 👯 Open to collaborating on Graph AI & knowledge management projects
 
-- 🚀 On a mission to build a world-class team and deliver as much value as humanly possible. Find us at [thecodefoundry.dev](https://thecodefoundry.dev)
+- 🚀 Running a nimble software dev studio. Find us at [thecodefoundry.dev](https://thecodefoundry.dev)
 
 <!--
 **jaedag/jaedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
