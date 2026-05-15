@@ -1,242 +1,87 @@
-### Hi 👋🏾! I’m JD, a product-focused web and mobile developer
+### Hi 👋🏾! I'm JD
 
-- 🔭 Building graph-powered knowledge systems with Neo4j and Graph AI
+I build web and mobile products, with a soft spot for turning messy data into connected knowledge using Neo4j and Graph AI.
 
-- 🌱 Product-focused developer helping teams turn scattered data into connected knowledge
+- 🛠️ Running [The Codefoundry](https://thecodefoundry.dev), a small studio shipping client work with a tight-knit team
+- 🔭 Currently deep in graph-powered knowledge systems
+- 🤖 Knee-deep in Claude Code and the whole vibe coding scene, exploring how far AI-assisted dev can take a small team
+- 🎨 I care about clean design, thoughtful animation, and software that feels good to use
+- 🌍 Writing this from São Paulo
+- 👯 Always up for a chat about Graph AI, knowledge graphs, or interesting product ideas
 
-- 👯 Open to collaborating on Graph AI & knowledge management projects
-
-- 🚀 Running a nimble software dev studio. Find us at [thecodefoundry.dev](https://thecodefoundry.dev)
-
-<!--
-**jaedag/jaedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-
-<!--<h3 align="left">Get In Touch:</h3>
-
+<h3 align="left">Say hi:</h3>
 <p align="left">
-  <a href="https://twitter.com/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jd_addy"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="jd_addy"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/john-dag-addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="john-dag-addy"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://stackoverflow.com/users/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="jd_addy"
-      height="30"
-      width="40"
-  /></a>
-  
-</p>
--->
-
-<h3 align="left">Looking to Collaborate?</h3>
-<p align="left">
-  Send me an email at <a href="mailto:jd@thecodefoundry.dev">jd@thecodefoundry.dev</a>
-    <!-- Upwork Button -->
-    <!--<a href="https://www.upwork.com/fl/~013eb0d901d76fb0a3" target="_blank" 
-       style="display: inline-flex; align-items: center; justify-content: center; 
-              padding: 10px; background-color: white; border: 2px solid #6fda44; 
-              border-radius: 8px; transition: transform 0.2s ease-in-out;">
-      <img src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-1-500x281.png"
-           alt="Hire Me on Upwork" height="40" 
-           style="display: block; object-fit: contain;">
-    </a>
-    <a href="https://linkedin.com/in/john-dag-addy" target="_blank" 
-       style="display: inline-flex; align-items: center; justify-content: center; 
-              padding: 10px; background-color: white; border: 2px solid #0077B5; 
-              border-radius: 8px; transition: transform 0.2s ease-in-out;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-           alt="John-Dag Addy on LinkedIn" height="40" 
-           style="display: block; object-fit: contain;">
-    </a>-->
+  Drop me a line at <a href="mailto:jd@thecodefoundry.dev">jd@thecodefoundry.dev</a>
 </p>
 
-  
 <h3 align="left">My Tech Stack:</h3>
 <h4>Languages and Tools</h4>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
- 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
 </p>
 
-<h4>Frontend Technologies</h4>
+<h4>AI Dev Tools</h4>
+<p align="left">
+  <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer">
+    <img src="https://claude.ai/favicon.ico" alt="Claude Code" width="40" height="40" />
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="40" height="40" />
+  </a>
+</p>
+
+<h4>Frontend</h4>
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
-  
-   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
   </a>
-   <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
   </a>
 </p>
 
-<h4>Backend Technologies</h4>
+<h4>Backend</h4>
 <p align="left">
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
-      alt="supabase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer"
-     style="display: inline-flex; align-items: center; justify-content: center; 
-            padding: 10px; background-color: white; border: 2px solid #008CC1; 
-            border-radius: 8px; transition: transform 0.2s ease-in-out;">
-    <img src="https://vertigo.com.br/wp-content/uploads/2023/08/neo4j-1024x512.png"
-         alt="Neo4j Logo" height="40" 
-         style="display: block; object-fit: contain;">
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" />
   </a>
   <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/neo4j.svg" alt="Neo4j Logo" height="40">
+    <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/neo4j.svg" alt="Neo4j" height="40">
   </a>
-  
 </p>
 
-<h4>Mobile Dev Technologies</h4>
+<h4>Mobile</h4>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
   </a>
- </p>
-
-<!-- [![John-Dag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedag&count_private=true&theme=github-dark)](https://github.com/jaedag) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedag&layout=compact&count_private=true&theme=github-dark)](https://github.com/jaedag) -->
+</p>
