@@ -6,7 +6,6 @@ I build web and mobile products, with a soft spot for turning messy data into co
 - 🔭 Currently deep in graph-powered knowledge systems
 - 🤖 Knee-deep in Claude Code and the whole vibe coding scene, exploring how far AI-assisted dev can take a small team
 - 🎨 I care about clean design, thoughtful animation, and software that feels good to use
-- 🌍 Writing this from São Paulo
 - 👯 Always up for a chat about Graph AI, knowledge graphs, or interesting product ideas
 
 <h3 align="left">Say hi:</h3>
