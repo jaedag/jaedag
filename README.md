@@ -1,16 +1,21 @@
-### Hi 👋🏾! I'm JD
+### Hi 👋🏾 I'm JD
 
-I build web and mobile products, with a soft spot for turning messy data into connected knowledge using Neo4j and Graph AI.
+I build software that helps people think, work, and create better.
 
-- 🛠️ Running [The Codefoundry](https://thecodefoundry.dev), a small studio shipping client work with a tight-knit team
-- 🔭 Currently deep in graph-powered knowledge systems
-- 🤖 Knee-deep in Claude Code and the whole vibe coding scene, exploring how far AI-assisted dev can take a small team
-- 🎨 I care about clean design, thoughtful animation, and software that feels good to use
-- 👯 Always up for a chat about Graph AI, knowledge graphs, or interesting product ideas
+I'm a full-stack engineer and founder of **The Codefoundry**, where we design and build AI-powered web and mobile products.
+I enjoy taking ambitious ideas from "what if?" to something real that people love using.
 
-<h3 align="left">Say hi:</h3>
+- 🚀 Founder of **The Codefoundry**, a boutique product studio building AI-first software
+- 🤖 Exploring the future of AI-assisted software engineering with Claude Code, GitHub Copilot, and modern agentic workflows
+- 🕸️ Long-time Neo4j developer with a love for knowledge graphs, Graph AI, and connected data
+- 🎨 Passionate about thoughtful UX, clean interfaces, and beautiful software
+- 🌍 Interested in startups, product strategy, and building small, high-leverage engineering teams
+- ☕ Always happy to chat about AI engineering, graph databases, product development, or interesting ideas
+
+<h3 align="left">Say hi</h3>
+
 <p align="left">
-  Drop me a line at <a href="mailto:jd@thecodefoundry.dev">jd@thecodefoundry.dev</a>
+  📫 <a href="mailto:jd@thecodefoundry.dev">jd@thecodefoundry.dev</a>
 </p>
 
 <h3 align="left">My Tech Stack:</h3>
