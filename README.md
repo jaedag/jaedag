@@ -3,13 +3,13 @@
 I build software that helps people think, work, and create better.
 
 I'm a full-stack engineer and founder of **The Codefoundry**, where we design and build AI-powered web and mobile products.
-I enjoy taking ambitious ideas from "what if?" to something real that people love using.
+I enjoy taking ambitious ideas from "wouldn't it be cool if?" to real products that people love using.
 
 - 🚀 Founder of **The Codefoundry**, a boutique product studio building AI-first software
-- 🤖 Exploring the future of AI-assisted software engineering with Claude Code, GitHub Copilot, and modern agentic workflows
+- 🤖 Exploring the future of AI-assisted software engineering with Claude Code and modern agentic workflows
 - 🕸️ Long-time Neo4j developer with a love for knowledge graphs, Graph AI, and connected data
 - 🎨 Passionate about thoughtful UX, clean interfaces, and beautiful software
-- 🌍 Interested in startups, product strategy, and building small, high-leverage engineering teams
+- 🌍 Interested in automating business workflows, and getting people out of spreadsheets!
 - ☕ Always happy to chat about AI engineering, graph databases, product development, or interesting ideas
 
 <h3 align="left">Say hi</h3>
